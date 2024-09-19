@@ -1,0 +1,11 @@
+Cliente: Qual a sua comida favorita?
+Chatbot: Macarrão
+Cliente: ola tudo bem? estou precisndo de um carro de ate 500 mil
+Chatbot: ola tudo! e voce? tenho algumas variedades irei mandar
+Cliente: ok estou esperando as fotos
+Chatbot: aqui estao todos os carros ate 500 mil
+Cliente: gostei muito da bmw de 450 mil irei amanha em sua loja
+Chatbot: ok estaremos esperando, obrigo pela conversa
+
+Cliente: Dicas de viagem no inverno
+Chatbot: Serra, natureza, compras
